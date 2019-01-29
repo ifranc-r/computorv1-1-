@@ -50,7 +50,7 @@ def is_x_coordinate(str):
 			return True
 		else:
 			return False
-	except ValueError:
+	except ValueError: 
 		return False
 	return False
 
